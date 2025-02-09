@@ -1,6 +1,7 @@
 # Bootstrapper
 
 [![Build Status][build-status-svg]][build-status-url]
+[![Lint Status][lint-status-svg]][lint-status-url]
 [![Go Report Card][goreport-svg]][goreport-url]
 [![Docs][docs-godoc-svg]][docs-godoc-url]
 [![License][license-svg]][license-url]
@@ -18,7 +19,9 @@ Supported Components:
 - [x] Panels - https://getbootstrap.com/docs/3.3/components/#panels
 
  [build-status-svg]: https://github.com/grokify/bootstrapper/workflows/test/badge.svg
- [build-status-url]: https://github.com/grokify/bootstrapper/actions
+ [build-status-url]: https://github.com/grokify/bootstrapper/actions/workflows/test.yaml
+ [lint-status-svg]: https://github.com/grokify/bootstrapper/workflows/lint/badge.svg
+ [lint-status-url]: https://github.com/grokify/bootstrapper/actions/workflows/lint.yaml
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/bootstrapper
  [goreport-url]: https://goreportcard.com/report/github.com/grokify/bootstrapper
  [docs-godoc-svg]: https://img.shields.io/badge/docs-godoc-blue.svg
