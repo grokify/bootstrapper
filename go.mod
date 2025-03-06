@@ -5,7 +5,7 @@ go 1.23.2
 require (
 	github.com/grokify/mogo v0.67.9
 	github.com/valyala/quicktemplate v1.8.0
-	golang.org/x/net v0.35.0
+	golang.org/x/net v0.37.0
 )
 
 require (
@@ -15,5 +15,5 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	golang.org/x/exp v0.0.0-20250207012021-f9890c6ad9f3 // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/text v0.23.0 // indirect
 )
